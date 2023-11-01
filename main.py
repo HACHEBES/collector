@@ -1,4 +1,5 @@
 from functions import sbor
+from web3 import Web3
 
 wallets = []
 seeds = []
